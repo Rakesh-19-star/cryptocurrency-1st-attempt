@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.logo-name-con {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+}
+.usd-uro-con {
+  display: flex;
+}
+.item-con {
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: roboto;
+}
+.price {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: roboto;
+  margin: 10px;
+}
+.logo {
+  width: 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+}
+.usd-price {
+  margin-right: 50px;
+}
